@@ -1,17 +1,15 @@
 # UvA AI for Society
 
-This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2024/2025. 
+This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2025/2026. 
 
 ## Weekly Topics and Assignments
 
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
-| 1      | Human-AI Interaction | Week_1_2_Assignment |
-| 2      | Societal Perspectives on AI | -- |
-| 3      | AI & Social Media Platforms | Week_2_3_Assignment |
-| 4      | Research in the Field of AI in Society | Essay (Canvas) |
-
-
+| 1      | AI Policy & Regulation  | Week_1_Assignment |
+| 2      | AI Bias & Fairness | -- |
+| 3      | AI & Social Media Platforms | Week_3_Assignment |
+| 4      | The Future of AI Debate | Essay (Canvas) |
 
 
 ## License
